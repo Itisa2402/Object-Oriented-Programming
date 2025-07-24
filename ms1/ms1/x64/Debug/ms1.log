@@ -1,0 +1,6 @@
+﻿  Menu.cpp
+  ms1.cpp
+  Generating Code...
+C:\Users\Itisa\Desktop\OOP244\ms1\ms1.cpp(31,52): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Itisa\Desktop\OOP244\ms1\ms1.cpp(31,47): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ms1.vcxproj -> C:\Users\Itisa\Desktop\OOP244\ms1\x64\Debug\ms1.exe
